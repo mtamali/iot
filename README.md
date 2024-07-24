@@ -1,5 +1,5 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mortenslab)
-# iot-thing
+# iot
 Universal iot device based on an ESP32 WROOM module
 
 KiCad 7.0 files for device
